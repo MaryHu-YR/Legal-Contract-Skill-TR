@@ -1,0 +1,1418 @@
+{
+  "generated_at": "2026-06-01",
+  "input": "combined_contracts_penalty_term.json",
+  "model": "openai/gpt-4-turbo",
+  "reviewed_count": 94,
+  "results": [
+    {
+      "entry_id": "11",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/001_11-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Barrett Business Services, Inc. 2020 Stock Incentive Plan - Non-Employee Director Restricted Stock Units Award Agreement",
+        "",
+        "**Document Type:** Stock Incentive Plan Agreement",
+        "**Your Position:** N/A (Assumed to be the Participant based on document context)",
+        "**Counterparty:** Barrett Business Services, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "13",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/002_13-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Retention Incentive Agreement",
+        "",
+        "**Document Type:** Retention Incentive Agreement",
+        "**Your Position:** Employee (Pierre Lemieux)",
+        "**Counterparty:** Acasti Pharma Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 29, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "32",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/003_32-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amended Promissory Note",
+        "",
+        "**Document Type:** Promissory Note",
+        "**Your Position:** N/A (Assumed to be Maker based on context)",
+        "**Counterparty:** Regional Health Properties, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "35",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/004_35-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to Engagement Letter",
+        "",
+        "**Document Type:** Amendment to Financial Advisory Engagement Letter",
+        "**Your Position:** N/A (Inferred as Churchill Capital Corp III based on context)",
+        "**Counterparty:** The Klein Group, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 7, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "73",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/005_73-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Registration Rights Agreement",
+        "",
+        "**Document Type:** Amendment to Registration Rights Agreement",
+        "**Your Position:** N/A",
+        "**Counterparty:** Better Choice Company Inc. and Purchasers",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "74",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/006_74-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Administrative Support Agreement",
+        "",
+        "**Document Type:** Administrative Support Agreement",
+        "**Your Position:** Company (Health Assurance Acquisition Corp.)",
+        "**Counterparty:** HAAC Sponsor, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on November 12, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "80",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/007_80-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Administrative Services Agreement",
+        "",
+        "**Document Type:** Administrative Services Agreement",
+        "**Your Position:** Company (FG New America Acquisition Corp.)",
+        "**Counterparty:** FG New America Investors LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on September 29, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "91",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/008_91-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 1 to Manufacturing Services Agreement for Subassembly",
+        "",
+        "**Document Type:** Manufacturing Services Agreement Amendment",
+        "**Your Position:** OPN (OptiNose US, Inc., OptiNose UK Ltd., OptiNose AS)",
+        "**Counterparty:** Advance Mold & Manufacturing, Inc. (VTM)",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on September 15, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "104",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/009_104-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Special Retention Agreement",
+        "",
+        "**Document Type:** Employment Retention Agreement",
+        "**Your Position:** Employee (Michael C. Ray)",
+        "**Counterparty:** Western Digital Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on August 26, 2019",
+        ""
+      ]
+    },
+    {
+      "entry_id": "113",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/010_113-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Administrative Support Agreement",
+        "",
+        "**Document Type:** Administrative Support Agreement",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Montes Archimedes Acquisition Corp. and Patient Square Capital LP",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 6, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "120",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/011_120-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amarin Corporation plc 2020 Stock Incentive Plan - Restricted Stock Unit Award Agreement",
+        "",
+        "**Document Type:** Restricted Stock Unit Award Agreement",
+        "**Your Position:** Participant",
+        "**Counterparty:** Amarin Corporation plc",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "138",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/012_138-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Employee (Ran Frankel)",
+        "**Counterparty:** Karyopharm Therapeutics Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "175",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/013_175-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Purchase and Option Agreement",
+        "",
+        "**Document Type:** M&A Agreement",
+        "**Your Position:** Seller (EDF Renewables, Inc.)",
+        "**Counterparty:** NB Merger Corp.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "195",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/014_195-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Promissory Note - SYBLEU INC.",
+        "",
+        "**Document Type:** Promissory Note",
+        "**Your Position:** N/A",
+        "**Counterparty:** David R. Koos",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on 7/08/2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "205",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/015_205-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Asset Purchase Agreement",
+        "",
+        "**Document Type:** Asset Purchase Agreement",
+        "**Your Position:** N/A",
+        "**Counterparty:** DISH Wireless L.L.C.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "210",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/016_210-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Third Amendment to Lease (55 Cambridge Parkway, Cambridge, Massachusetts – CarGurus, Inc.)",
+        "",
+        "**Document Type:** Lease Amendment  ",
+        "**Your Position:** Tenant (CarGurus, Inc.)  ",
+        "**Counterparty:** Landlord (55 Cambridge Parkway, LLC)  ",
+        "**Risk Level:** 🟡 Medium  ",
+        "**Document Status:** Executed on July 1, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "238",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/017_238-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Third Amendment to Agreement of Limited Partnership of Build-to-Core Industrial Partnership II LP",
+        "",
+        "**Document Type:** Amendment to Limited Partnership Agreement",
+        "**Your Position:** N/A (Assuming neutral review perspective)",
+        "**Counterparty:** Various subsidiaries and entities involved in the partnership structure",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "280",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/018_280-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Side Letter to Chugach Eklutna PPA",
+        "",
+        "**Document Type:** Side Letter Agreement",
+        "**Your Position:** N/A",
+        "**Counterparty:** Municipality of Anchorage",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 30, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "288",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/019_288-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 2 to Airbus A321 NEO Aircraft Purchase Agreement",
+        "",
+        "**Document Type:** Purchase Agreement Amendment",
+        "**Your Position:** Buyer (Delta Air Lines, Inc.)",
+        "**Counterparty:** Airbus S.A.S.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 30, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "290",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/020_290-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Lock-Up Agreement",
+        "",
+        "**Document Type:** Lock-Up Agreement",
+        "**Your Position:** N/A (Inferred as the undersigned party in the agreement)",
+        "**Counterparty:** U.S. Energy Corp. and Kingswood Capital Markets",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft (Date and some details are placeholders)",
+        ""
+      ]
+    },
+    {
+      "entry_id": "291",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/021_291-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Lease Termination Agreement",
+        "",
+        "**Document Type:** Lease Termination Agreement",
+        "**Your Position:** Tenant (X4 Pharmaceuticals, Inc.)",
+        "**Counterparty:** 955 Massachusetts Avenue MA, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 17, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "300",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/022_300-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Promotion and Equity Incentive Letter",
+        "",
+        "**Document Type:** Employment Promotion and Equity Incentive Agreement",
+        "**Your Position:** Employee (Steven)",
+        "**Counterparty:** Vir Biotechnology, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Appears to be a draft or final letter awaiting acknowledgment",
+        ""
+      ]
+    },
+    {
+      "entry_id": "308",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/023_308-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Founder Holders Forfeiture Agreement",
+        "",
+        "**Document Type:** Forfeiture Agreement",
+        "**Your Position:** N/A (Assuming neutral review perspective)",
+        "**Counterparty:** dMY Technology Group, Inc. II, Galileo NewCo Limited, and various individual founder holders",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 27, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "322",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/024_322-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Executive (Gerry P. Smith)",
+        "**Counterparty:** The ODP Corporation, Office Depot, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 1, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "328",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/025_328-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Executive",
+        "**Counterparty:** 180 Life Sciences Corp.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "334",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/026_334-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Second Mortgage Modification Agreement",
+        "",
+        "**Document Type:** Mortgage Modification Agreement  ",
+        "**Your Position:** Mortgagor (555 N Research Corporation)  ",
+        "**Counterparty:** HSBC Bank USA, National Association  ",
+        "**Risk Level:** 🟡 Medium  ",
+        "**Document Status:** Executed on October 22, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "340",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/027_340-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Exhibit 10.7 Employment Transition Agreement",
+        "",
+        "**Document Type:** Employment Agreement",
+        "**Your Position:** Employee (Matthew Link)",
+        "**Counterparty:** NuVasive, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 13, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "347",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/028_347-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Lockup Agreement",
+        "",
+        "**Document Type:** Lockup Agreement",
+        "**Your Position:** Stockholder",
+        "**Counterparty:** The Peck Company Holdings, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on August 10, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "354",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/029_354-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to the Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Employee (Marie Tedesco)",
+        "**Counterparty:** Beasley Mezzanine Holdings, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on August 31, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "368",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/030_368-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Second Amendment to Guarantee Agreement",
+        "",
+        "**Document Type:** Guarantee Agreement Amendment",
+        "**Your Position:** Guarantor",
+        "**Counterparty:** Goldman Sachs Bank USA",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on August 3, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "381",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/031_381-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 1 to the Promissory Note and the Convertible Promissory Notes Purchase Agreement",
+        "",
+        "**Document Type:** Amendment Agreement",
+        "**Your Position:** N/A (Assuming Holder's perspective for analysis)",
+        "**Counterparty:** Leader Capital Holdings Corp.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft (Date fields are blank)",
+        ""
+      ]
+    },
+    {
+      "entry_id": "415",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/032_415-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Addendum to Participation Agreement",
+        "",
+        "**Document Type:** Addendum to Employment Agreement",
+        "**Your Position:** Executive",
+        "**Counterparty:** Peabody Energy Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft (Date missing)",
+        ""
+      ]
+    },
+    {
+      "entry_id": "434",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/033_434-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Leak-Out Agreement",
+        "",
+        "**Document Type:** Leak-Out Agreement",
+        "**Your Position:** Holder (Investor)",
+        "**Counterparty:** Transportation & Logistics Systems, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "461",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/034_461-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Administrative Support Agreement",
+        "",
+        "**Document Type:** Administrative Support Agreement",
+        "**Your Position:** N/A (Assuming neutral review)",
+        "**Counterparty:** Constellation Alpha Holdings LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on September 17, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "468",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/035_468-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amended and Restated Assignment and Pledge of Deposit Account",
+        "",
+        "**Document Type:** Assignment and Pledge Agreement",
+        "**Your Position:** Guarantor (CNL Strategic Capital, LLC)",
+        "**Counterparty:** United Community Bank DBA Seaside Bank and Trust",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 15, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "475",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/036_475-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Administrative Services Agreement",
+        "",
+        "**Document Type:** Administrative Services Agreement",
+        "**Your Position:** Company (Kismet Acquisition One Corp)",
+        "**Counterparty:** Kismet Capital Group LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed",
+        ""
+      ]
+    },
+    {
+      "entry_id": "483",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/037_483-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amended and Restated Non-Employee Director Compensation Policy",
+        "",
+        "**Document Type:** Compensation Policy",
+        "**Your Position:** N/A",
+        "**Counterparty:** Protara Therapeutics, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Amended and Restated as of July 23, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "496",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/038_496-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: NextGen Healthcare, Inc. FY 2021 Director Compensation Plan",
+        "",
+        "**Document Type:** Director Compensation Plan",
+        "**Your Position:** N/A",
+        "**Counterparty:** NextGen Healthcare, Inc.",
+        "**Risk Level:** 🟢 Low",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "562",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/039_562-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 1 to License Agreement",
+        "",
+        "**Document Type:** License Agreement Amendment",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Merck Sharp & Dohme Corp. and Lumos Pharma, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on August 12, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "569",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/040_569-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Second Amendment to Amended and Restated Retirement Benefit Award Agreement",
+        "",
+        "**Document Type:** Retirement Benefit Amendment Agreement",
+        "**Your Position:** Eligible Employee (Deepak Chopra)",
+        "**Counterparty:** OSI Systems, Inc.",
+        "**Risk Level:** 🟢 Low",
+        "**Document Status:** Executed on August 19, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "573",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/041_573-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Board of Directors Services Agreement",
+        "",
+        "**Document Type:** Board of Directors Services Agreement",
+        "**Your Position:** Director",
+        "**Counterparty:** MJ Holdings, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on September ___, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "584",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/042_584-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Employment Offer Letter - IVERIC bio, Inc.",
+        "",
+        "**Document Type:** Employment Offer Letter",
+        "**Your Position:** Employee (Dr. Pravin Dugel)",
+        "**Counterparty:** IVERIC bio, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "598",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/043_598-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 1 to Natural Gas Asset Management Agreement",
+        "",
+        "**Document Type:** Contract Amendment",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Roanoke Gas Company and Sequent Energy Management, L.P.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 31, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "611",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/044_611-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Addendum No. 7 to Amended and Restated Services Agreement",
+        "",
+        "**Document Type:** Services Agreement Addendum",
+        "**Your Position:** N/A",
+        "**Counterparty:** IHC Health Services, Inc. and R1 RCM Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on April 30, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "616",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/045_616-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Bishop Ranch - Building Lease",
+        "",
+        "**Document Type:** Commercial Lease Agreement",
+        "**Your Position:** Tenant (Inferred)",
+        "**Counterparty:** Landlord (Not explicitly named)",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "628",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/046_628-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Stock Purchase Agreement",
+        "",
+        "**Document Type:** Stock Purchase Agreement",
+        "**Your Position:** Purchaser",
+        "**Counterparty:** Photozou Co., Ltd.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "639",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/047_639-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Paycheck Protection Program Loan Note",
+        "",
+        "**Document Type:** Loan Agreement",
+        "**Your Position:** Borrower (Charles & Colvard, Ltd.)",
+        "**Counterparty:** Newtek Small Business Finance, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on 6/15/2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "649",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/048_649-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amended and Restated Facility Agreement",
+        "",
+        "**Document Type:** Facility Agreement (Amendment)",
+        "**Your Position:** Borrower (Dorian LPG Finance LLC)",
+        "**Counterparty:** Various Lenders and Financial Institutions",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 14, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "662",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/049_662-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to Leak-Out Agreement",
+        "",
+        "**Document Type:** Amendment to Leak-Out Agreement",
+        "**Your Position:** Shareholder",
+        "**Counterparty:** AgEagle Aerial Systems Inc. and Alpha Capital Anstalt",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on the date first set forth above",
+        ""
+      ]
+    },
+    {
+      "entry_id": "663",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/050_663-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: SBA Loan Agreement for SUNLINK SCRIPTSRX, LLC",
+        "",
+        "**Document Type:** Loan Agreement",
+        "**Your Position:** Borrower",
+        "**Counterparty:** Synovus Bank",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on 5/1/2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "666",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/051_666-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Administrative Services Agreement",
+        "",
+        "**Document Type:** Administrative Services Agreement",
+        "**Your Position:** N/A",
+        "**Counterparty:** Colonnade Sponsor LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on August 20, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "667",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/052_667-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Employee (Robert Dunn)",
+        "**Counterparty:** Zion Oil and Gas, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on June 11, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "672",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/053_672-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Factory Lease Agreement",
+        "",
+        "**Document Type:** Factory Lease Agreement",
+        "**Your Position:** Lessee (Party B - Jiangmen Treasure Success Business Consultancy Co., Ltd.)",
+        "**Counterparty:** Lessor (Party A - Jiangmen V-Apparel Manufacturing Limited)",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 1, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "677",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/054_677-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Employment Offer from Group 1 Automotive, Inc.",
+        "",
+        "**Document Type:** Employment Offer Letter",
+        "**Your Position:** Employee (Daniel McHenry)",
+        "**Counterparty:** Group 1 Automotive, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "682",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/055_682-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Employee",
+        "**Counterparty:** OFTC, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on April 25, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "702",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/056_702-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Document ID 702",
+        "",
+        "**Document Type:** N/A",
+        "**Your Position:** N/A",
+        "**Counterparty:** N/A",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "706",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/057_706-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Stock Redemption Agreement",
+        "",
+        "**Document Type:** Stock Redemption Agreement",
+        "**Your Position:** N/A (Assuming neutral review)",
+        "**Counterparty:** Resource Apartment REIT III, Inc. and Resource REIT Advisor, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on September 8, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "712",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/058_712-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 3 to Credit Agreement and Consent",
+        "",
+        "**Document Type:** Credit Agreement Amendment",
+        "**Your Position:** Borrower (Regis Corporation)",
+        "**Counterparty:** Bank of America, N.A., and other Lenders",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "732",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/059_732-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Promissory Note",
+        "",
+        "**Document Type:** Promissory Note",
+        "**Your Position:** N/A",
+        "**Counterparty:** High Sierra Technologies, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 30, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "742",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/060_742-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Scientific, Clinical, and Regulatory Advisor Agreement",
+        "",
+        "**Document Type:** Advisor Agreement",
+        "**Your Position:** Advisor (Seth Rudnick, M.D.)",
+        "**Counterparty:** G1 Therapeutics, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 1, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "744",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/061_744-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Earmarking of Proceeds from Prospective Business Combination",
+        "",
+        "**Document Type:** Letter Agreement",
+        "**Your Position:** N/A (Assuming neutral review perspective)",
+        "**Counterparty:** QuantumScape Corporation, Kensington Capital Acquisition Corporation, Volkswagen Group of America Investments, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on September 2, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "752",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/062_752-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Third Amendment to Amended and Restated Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Executive",
+        "**Counterparty:** Neos Therapeutics, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on June 18, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "760",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/063_760-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Termination Agreement and Mutual Release",
+        "",
+        "**Document Type:** Termination Agreement and Mutual Release",
+        "**Your Position:** N/A",
+        "**Counterparty:** Digital Ally, Inc. and Brickell Key Investments LP",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on July 16, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "773",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/064_773-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Independent Director Compensation Policy",
+        "",
+        "**Document Type:** Compensation Policy",
+        "**Your Position:** N/A",
+        "**Counterparty:** SiTime Corporation",
+        "**Risk Level:** 🟢 Low",
+        "**Document Status:** Approved on July 27, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "791",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/065_791-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 4 to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment",
+        "**Your Position:** Executive",
+        "**Counterparty:** Motorcar Parts of America, Inc.",
+        "**Risk Level:** 🟢 Low",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "796",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/066_796-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Supplemental Agreement (Contract No.: Jin Chu Yin Yu Zu Bao Zi (2018) No. 004 BC)",
+        "",
+        "**Document Type:** Financial Services Agreement (Rent Factoring)",
+        "**Your Position:** N/A (Multiple parties involved)",
+        "**Counterparty:** The Export-Import Bank of China, Chongqing Yinhai Financial Leasing Co., Ltd., and others",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "806",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/067_806-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Stock Agreement (Liberated Syndication Inc.)",
+        "",
+        "**Document Type:** Stock Agreement",
+        "**Your Position:** Director (Receiving Party)",
+        "**Counterparty:** Liberated Syndication Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "812",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/068_812-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to the United Community Banks Modified Retirement Plan",
+        "",
+        "**Document Type:** Amendment to Retirement Plan",
+        "**Your Position:** N/A (Assuming neutral review perspective)",
+        "**Counterparty:** United Community Banks, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on April 1, 2018",
+        ""
+      ]
+    },
+    {
+      "entry_id": "815",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/069_815-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Purchase Agreement",
+        "",
+        "**Document Type:** Amendment to Purchase Agreement",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Various parties including Perimeter Funding Corporation, Access Financing, LLC, and TSO-Fortiva Notes Holdco LP",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on June 11, 2018",
+        ""
+      ]
+    },
+    {
+      "entry_id": "822",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/070_822-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amended and Restated Incentive Compensation Agreement",
+        "",
+        "**Document Type:** Incentive Compensation Agreement",
+        "**Your Position:** Executive",
+        "**Counterparty:** ImmuCell Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on March 25, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "830",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/071_830-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Avantor, Inc. Nonqualified Stock Option Agreement Amendment",
+        "",
+        "**Document Type:** Equity Incentive Plan Amendment",
+        "**Your Position:** Participant (Bjorn Hofman)",
+        "**Counterparty:** Avantor, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on December 31, 2019",
+        ""
+      ]
+    },
+    {
+      "entry_id": "833",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/072_833-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Extension of Lease Agreement",
+        "",
+        "**Document Type:** Lease Extension Agreement",
+        "**Your Position:** Lessee (Exagen Diagnostics, Inc.)",
+        "**Counterparty:** Liberty Vista (Lessor)",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on March 6, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "838",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/073_838-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment No. 1 to Purchase Agreement",
+        "",
+        "**Document Type:** Amendment to Purchase Agreement",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Lincoln Park Capital Fund, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "853",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/074_853-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Agreement between Rayonier Advanced Materials Inc. and Pangaea Ventures, L.P. & Ortelius Advisors, L.P.",
+        "",
+        "**Document Type:** Governance Agreement",
+        "**Your Position:** N/A (Assuming neutral review perspective)",
+        "**Counterparty:** Rayonier Advanced Materials Inc., Pangaea Ventures, L.P., Ortelius Advisors, L.P.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on March 6, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "857",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/075_857-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Board Adviser Agreement",
+        "",
+        "**Document Type:** Board Adviser Agreement",
+        "**Your Position:** Adviser",
+        "**Counterparty:** Gyrodyne, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "859",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/076_859-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Separation Agreement and General Release",
+        "",
+        "**Document Type:** Separation Agreement and General Release",
+        "**Your Position:** Employee (Jeffrey Friedel)",
+        "**Counterparty:** Conduent Business Services, LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on January 13, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "860",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/077_860-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Employment Agreement - Chief Operating Officer, Conduent Inc.",
+        "",
+        "**Document Type:** Employment Agreement",
+        "**Your Position:** Employee (Mark S. Brewer)",
+        "**Counterparty:** Conduent Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on November 5, 2019",
+        ""
+      ]
+    },
+    {
+      "entry_id": "881",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/078_881-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Non-Employee Director Compensation Policy",
+        "",
+        "**Document Type:** Compensation Policy",
+        "**Your Position:** N/A",
+        "**Counterparty:** CNS Pharmaceuticals, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Effective as of March 12, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "882",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/079_882-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Notice of Restricted Stock Unit Award under the Albemarle Corporation 2017 Incentive Plan",
+        "",
+        "**Document Type:** Restricted Stock Unit Award Notice",
+        "**Your Position:** N/A (Presumed to be the Participant based on context)",
+        "**Counterparty:** Albemarle Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "894",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/080_894-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Exclusivity Agreement",
+        "",
+        "**Document Type:** Amendment to Exclusivity Agreement",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Safehold Inc. and iStar Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on January 14, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "920",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/081_920-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Second Letter Agreement to the Advisory Agreement and the ESA",
+        "",
+        "**Document Type:** Letter Agreement",
+        "**Your Position:** N/A",
+        "**Counterparty:** RREEF Property Trust, Inc., RREEF Property Operating Partnership, LP, RREEF America L.L.C.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on March 24, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "925",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/082_925-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Regal Beloit Corporation 2018 Equity Incentive Plan - Performance Share Unit Award",
+        "",
+        "**Document Type:** Equity Incentive Plan Agreement",
+        "**Your Position:** Recipient (Employee)",
+        "**Counterparty:** Regal Beloit Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "926",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/083_926-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Regal Beloit Corporation -- 2018 Equity Incentive Plan Stock Appreciation Rights Award",
+        "",
+        "**Document Type:** Equity Incentive Plan",
+        "**Your Position:** N/A (Recipient of Stock Appreciation Rights)",
+        "**Counterparty:** Regal Beloit Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "930",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/084_930-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Executive Participation Agreement",
+        "",
+        "**Document Type:** Executive Participation Agreement",
+        "**Your Position:** Executive",
+        "**Counterparty:** Western Alliance Bancorporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "937",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/085_937-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Revolving Credit Agreement",
+        "",
+        "**Document Type:** Revolving Credit Agreement",
+        "**Your Position:** Borrower (NMF SLF I, INC.)",
+        "**Counterparty:** Wells Fargo Bank, National Association",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on February 25, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "940",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/086_940-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Eighth Amendment to Executive Employment Agreement",
+        "",
+        "**Document Type:** Executive Employment Agreement Amendment",
+        "**Your Position:** Executive",
+        "**Counterparty:** Andrea Electronics Corporation",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on February 4, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "948",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/087_948-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to Executive Employment Agreement",
+        "",
+        "**Document Type:** Executive Employment Agreement Amendment",
+        "**Your Position:** Executive",
+        "**Counterparty:** NanoString Technologies, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on 2/21/2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "953",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/088_953-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: First Amendment to Supplement #2 to Master Loan Agreement",
+        "",
+        "**Document Type:** Loan Agreement Amendment",
+        "**Your Position:** Borrower (CAS)",
+        "**Counterparty:** OLD NATIONAL BANK (Lender)",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    },
+    {
+      "entry_id": "961",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/089_961-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: SVC89 Combined Portfolio Letter Agreement",
+        "",
+        "**Document Type:** Letter Agreement",
+        "**Your Position:** N/A (Assuming neutral review perspective)",
+        "**Counterparty:** Marriott International, Inc. and HPT TRS MRP, Inc. / HPT CY TRS, Inc.",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on December 31, 2019",
+        ""
+      ]
+    },
+    {
+      "entry_id": "981",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/090_981-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Amendment to Registration Rights Agreement",
+        "",
+        "**Document Type:** Amendment Agreement",
+        "**Your Position:** N/A (not specified)",
+        "**Counterparty:** Antara Capital Master Fund LP",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on January 31, 2020",
+        ""
+      ]
+    },
+    {
+      "entry_id": "1009",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/091_1009-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Second Amendment to Lease",
+        "",
+        "**Document Type:** Lease Amendment  ",
+        "**Your Position:** Tenant (Curo Management, LLC)  ",
+        "**Counterparty:** Landlord (CDM Development, LLC)  ",
+        "**Risk Level:** 🟡 Medium  ",
+        "**Document Status:** Executed on November 20, 2017",
+        ""
+      ]
+    },
+    {
+      "entry_id": "1019",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/092_1019-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Fifth Amendment to Lease",
+        "",
+        "**Document Type:** Lease Amendment",
+        "**Your Position:** Tenant (DEXCOM, INC.)",
+        "**Counterparty:** SEQUENCE TECH. CENTER CA LLC",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on October 29, 2019",
+        ""
+      ]
+    },
+    {
+      "entry_id": "1033",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/093_1033-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Equipment Schedule No.1-5 to Master Lease Agreement",
+        "",
+        "**Document Type:** Equipment Lease Schedule",
+        "**Your Position:** Lessee (Zosano Pharma Corporation)",
+        "**Counterparty:** Lessor (Trinity Capital Fund III, L.P.)",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Executed on November 27, 2019",
+        ""
+      ]
+    },
+    {
+      "entry_id": "1036",
+      "version": "Preturbed contract",
+      "report_file": "openrouter_reviews/094_1036-preturbed-contract.md",
+      "preview": [
+        "# Contract Review: Executive Incentive Bonus Plan Agreement",
+        "",
+        "**Document Type:** Employment Agreement",
+        "**Your Position:** Employee (Rajiv Ahuja)",
+        "**Counterparty:** Aegis Customer Support Services Private Limited",
+        "**Risk Level:** 🟡 Medium",
+        "**Document Status:** Draft",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Optional: improves SSL certificate handling on some systems
+certifi>=2024.2.2

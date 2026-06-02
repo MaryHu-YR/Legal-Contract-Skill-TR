@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-06-01T21:24:34.771117+00:00",
+  "input": "/Users/y528hu/Desktop/科研/TR/Contracts_w_skills/contracts_2020_sample.json",
+  "output_dir": "/Users/y528hu/Desktop/科研/TR/Contracts_w_skills/contracts_2020_reviews",
+  "model": "openai/gpt-4-turbo",
+  "preset": "workflow",
+  "skills": [
+    "summary",
+    "contract-review",
+    "legal-review",
+    "legal-risks",
+    "legal-missing"
+  ],
+  "reviewed_count": 2,
+  "skipped_count": 0,
+  "results": [
+    {
+      "contract_id": 1,
+      "filename": "000000030.txt",
+      "filepath": "/Users/y528hu/Desktop/科研/TR/Experiments/New/contracts/2020/000000030.txt",
+      "report_file": "/Users/y528hu/Desktop/科研/TR/Contracts_w_skills/contracts_2020_reviews/001_1_000000030.md",
+      "status": "ok",
+      "model": "openai/gpt-4-turbo",
+      "prompt_tokens": 11889,
+      "completion_tokens": 743,
+      "preview": [
+        "### **LEGAL DISCLAIMER**",
+        "*This review is for informational purposes only and is not legal advice.*",
+        "",
+        "# Contract Review: Amendment to Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement Amendment  "
+      ]
+    },
+    {
+      "contract_id": 2,
+      "filename": "000000037.txt",
+      "filepath": "/Users/y528hu/Desktop/科研/TR/Experiments/New/contracts/2020/000000037.txt",
+      "report_file": "/Users/y528hu/Desktop/科研/TR/Contracts_w_skills/contracts_2020_reviews/002_2_000000037.md",
+      "status": "ok",
+      "model": "openai/gpt-4-turbo",
+      "prompt_tokens": 19907,
+      "completion_tokens": 981,
+      "preview": [
+        "### **LEGAL DISCLAIMER:** This review is for informational purposes only and is not legal advice. Always consult a licensed attorney before signing any contract.",
+        "",
+        "# Contract Review: Employment Agreement",
+        "",
+        "**Document Type:** Employment Agreement  ",
+        "**Your Position:** Executive (Thomas W. Burnell)  "
+      ]
+    }
+  ]
+}

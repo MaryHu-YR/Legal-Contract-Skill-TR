@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-02T03:36:39.324547+00:00",
+  "model": "anthropic/claude-opus-4.6",
+  "preset": "full",
+  "skills": [
+    "summary",
+    "contract-review",
+    "legal-review",
+    "legal-risks",
+    "legal-missing",
+    "legal-negotiate",
+    "legal-plain",
+    "legal-freelancer"
+  ],
+  "outputs": {
+    "mistakes": "/Users/y528hu/Desktop/\u79d1\u7814/TR/Contracts_w_skills/contract-review-skills-summary/contract-writing-common-mistakes.md",
+    "rubrics": "/Users/y528hu/Desktop/\u79d1\u7814/TR/Contracts_w_skills/contract-review-skills-summary/contract-review-rubrics.md"
+  }
+}
