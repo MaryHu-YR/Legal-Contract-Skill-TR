@@ -18,6 +18,15 @@ This repository combines two legal skill libraries into one workflow, then uses 
 
 ---
 
+## TL;DR
+
+**In short:** if you only want the key takeaways, focus on these two files in `contract-review-skills-summary/`:
+
+- `contract-review-rubrics.md`
+- `contract-writing-common-mistakes.md`
+
+---
+
 ## Key Structure
 
 - `ai-legal-claude-main/`: legal skills (`review`, `risks`, `missing`, `negotiate`, etc.)
